@@ -9,6 +9,7 @@ public class People implements Moveable{
         this.nickname = nickname;
     }
 
+
     @Override
     public String getName() {
         return nickname;

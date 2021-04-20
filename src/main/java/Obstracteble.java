@@ -3,3 +3,4 @@ public interface Obstracteble {
     boolean toJump(int maxHeight);
     String getName();
 }
+

@@ -22,6 +22,7 @@ public class Main {
                     System.out.println("У него не получается.");
 
                 }
+
             }
             System.out.println();
         }

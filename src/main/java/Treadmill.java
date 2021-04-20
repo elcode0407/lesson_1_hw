@@ -19,3 +19,4 @@ public class Treadmill implements Obstracteble{
         return false;
     }
 }
+

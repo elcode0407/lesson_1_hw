@@ -20,3 +20,5 @@ public class Wall implements Obstracteble {
         return (maxHeight >= height);
     }
 }
+
+
