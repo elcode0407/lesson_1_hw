@@ -10,6 +10,7 @@ public class Cat implements Moveable{
         }
 
 
+
         @Override
         public int getMaxHeight() {
             return maxHeight;

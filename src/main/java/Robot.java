@@ -9,6 +9,7 @@ public class Robot implements Moveable{
         this.nickname = nickname;
     }
 
+
     @Override
     public int getMaxHeight() {
         return maxHeight;
